@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+DE_submission copy 2.ipynb
+DE_submission copy 3.ipynb
+DE_submission copy 4.ipynb
+DE_submission_copy.html
+DE_submission_copy.ipynb
+DE_submission.html
+experiment.ipynb
+m_mock_active_users.csv
+m_mock_transaction.csv
+m_vendor_map.csv
+programming_test.txt
+warnings.log
